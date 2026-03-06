@@ -1,3 +1,3 @@
 Guild.xyz verification
-Timestamp: 2026-03-06T21:30:00.483Z
-Commit: Fix database connection timeout
+Timestamp: 2026-03-06T21:53:12.381Z
+Commit: Add multi-language support
